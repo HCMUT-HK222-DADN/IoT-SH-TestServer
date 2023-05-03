@@ -1,0 +1,7 @@
+{
+ "Type": "UpdateSenSor",
+ "Temp": 20,
+ "Humi": 15,
+ "Light": 20,
+ "Motion": 0
+}
